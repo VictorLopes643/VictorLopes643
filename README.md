@@ -21,7 +21,7 @@ const  Victor  = {
             " React Js , " Next js " , " Styled-Components ", " tailwindcss"
         ],
         backEnd : [
-            " Node " , " GraphQL " , " Python ", " C#"
+            " Node " , " GraphQL " , " Python ", " C#", " Go"
         ],
         mobile :  [ " React Native " ],
         devOps : [ " AWS " , " Docker🐳 " , " Route53 " , " Nginx " ],
